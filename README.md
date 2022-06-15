@@ -5,4 +5,4 @@ A collection of my web scraping projects, using jupyter notebook to collect data
 | ------------- | -------------
 | Amazon        | build csv records from amazon product
 | Ebay          | build csv records from ebay product
-| Indeed        | build csv records from Indeed job posts
+| Indeed        | build csv records from Indeed job postings based on search criteria
